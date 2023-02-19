@@ -1,0 +1,1 @@
+{"name":"Local: Sample","url":"c:\\Dewank-work\\CP\\Sample.cpp","tests":[{"id":1650271665686,"input":"8","output":"2"},{"id":1650271672576,"input":"9","output":"2.3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dewank-work\\CP\\Sample.cpp","group":"local","local":true}

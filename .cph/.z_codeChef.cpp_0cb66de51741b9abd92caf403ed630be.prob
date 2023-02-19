@@ -1,0 +1,1 @@
+{"name":"Local: z_codeChef","url":"c:\\Dewank-work\\CP\\z_codeChef.cpp","tests":[{"id":1643820859645,"input":"3\n9\nababbdced\n4\n7\nbdcgehx\n5\n6\nacbcbd\n3","output":"3\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dewank-work\\CP\\z_codeChef.cpp","group":"local","local":true}

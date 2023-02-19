@@ -1,0 +1,1 @@
+{"name":"Local: leetcode_replace","url":"c:\\Dewank-work\\CP\\leetcode_replace.cpp","tests":[{"id":1641968474283,"input":"6\n17 18 5 4 6 1","output":"18 6 6 6 1 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dewank-work\\CP\\leetcode_replace.cpp","group":"local","local":true}

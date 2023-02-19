@@ -1,0 +1,1 @@
+{"name":"Local: shiva_Awnvesh","url":"c:\\Dewank-work\\CP\\shiva_Awnvesh.cpp","tests":[{"id":1645252063155,"input":"1\n4\n2 1 2 2 ","output":"25"},{"id":1645252113296,"input":"1\n4\n3 2 4 4","output":"85"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dewank-work\\CP\\shiva_Awnvesh.cpp","group":"local","local":true}

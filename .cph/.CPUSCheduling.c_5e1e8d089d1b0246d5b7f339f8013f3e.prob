@@ -1,0 +1,1 @@
+{"name":"Local: CPUSCheduling","url":"c:\\Dewank-work\\Code UwU\\CP\\CPUSCheduling.c","tests":[{"id":1652765924989,"input":"3\n0 5 \n2 7 \n4 6\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Dewank-work\\Code UwU\\CP\\CPUSCheduling.c","group":"local","local":true}
